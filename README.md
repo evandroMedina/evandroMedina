@@ -25,7 +25,7 @@ I'm **Evandro Medina**
 ### 📊 Gráfico de contribuições consolidadas
 > Veja meu trabalho unificado aqui:
 
-🔗 https://gitHub-contributions.vercel.app/?username=evandroMedina,evandroUniformg
+🔗 https://gitHub-contributions.vercel.app/?username=evandroUniformg
 
 
 
