@@ -22,10 +22,10 @@ I'm **Evandro Medina**
 
 ---
 
-### 📊 Gráfico de contribuições consolidadas
-> Veja meu trabalho unificado aqui:
+### 📊 Contribution Graph
+> See contributions to company projects here:
 
-🔗 https://gitHub-contributions.vercel.app/?username=evandroUniformg
+🔗 https://github-contributions.vercel.app/?username=evandroUniformg
 
 
 
