@@ -2,8 +2,8 @@
 I'm **Evandro Medina**  
 🚀 Web Developer Full Stack
 
-- 🔭 I’m currently working on UNIFOR-MG
-- 
+🔭 I’m currently working on UNIFOR-MG.
+ 
 📫 Feel free to contact me:
 
 [LinkedIn](https://linkedin.com/in/evandromedina)  
