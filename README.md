@@ -3,7 +3,9 @@ I'm **Evandro Medina**
 🚀 Web Developer Full Stack
 
 - 🔭 I’m currently working on UNIFOR-MG
-📫 Feel free to contact me:: [LinkedIn](https://linkedin.com/in/evandromedina)  • [E-mail]( evandromedina@gmail.com)
+📫 Feel free to contact me:: [LinkedIn](https://linkedin.com/in/evandromedina)  •
+
+  [E-mail]( evandromedina@gmail.com)
 
 ---
 
@@ -28,7 +30,7 @@ I'm **Evandro Medina**
 ---
 
 ### 📊 GitHub Contributions
-Unfortunately, I’m unable to publicly share the contribution graph for the private projects I’ve worked on using my GitHub account at Uniformg, due to repository visibility restrictions.
+Unfortunately, I’m unable to publicly share the contribution graph for the private projects I’ve worked on using my GitHub account at Uniformg, due to repository visibility restrictions. Get in touch if you want to know about.
 
 However, most of my contributions there involve:
 
