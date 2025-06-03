@@ -3,9 +3,12 @@ I'm **Evandro Medina**
 🚀 Web Developer Full Stack
 
 - 🔭 I’m currently working on UNIFOR-MG
-📫 Feel free to contact me:: [LinkedIn](https://linkedin.com/in/evandromedina)  •
+- 
+📫 Feel free to contact me:
 
-  [E-mail]( evandromedina@gmail.com)
+[LinkedIn](https://linkedin.com/in/evandromedina)  
+
+[E-mail]( evandromedina@gmail.com)
 
 ---
 
