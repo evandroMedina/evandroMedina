@@ -22,10 +22,18 @@ I'm **Evandro Medina**
 
 ---
 
-### 📊 Contribution Graph
-> See contributions to company projects here:
+### 📊 GitHub Contributions
+Unfortunately, I’m unable to publicly share the contribution graph for the private projects I’ve worked on using my GitHub account at Uniformg, due to repository visibility restrictions.
 
-🔗 https://github-contributions.vercel.app/?username=evandroUniformg
+However, most of my contributions there involve:
+
+🧩 Java (Spring Boot, JPA)
+
+🖥️ Frontend work with Angular
+
+🗃️ SQL Server and complex data queries
+
+📄 PDF/QR code generation and payment systems integration
 
 
 
